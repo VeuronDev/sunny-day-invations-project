@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1762573639
+icon.svg::CompressedTexture2D::770855762160820221::1762573563::1762573638::1::::<><><>0<>0<>9be0a587f841342b22e416326e20a6b3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assests/::1762573702
+assest.txt::TextFile::-1::1762573563::0::1::::<><><>0<>0<><>::
+spr_tileset_sunnysideworld_16px.png::CompressedTexture2D::7441116569029998063::1762573702::1762573703::1::::<><><>0<>0<>f2aabd98157ac4d5a9250b370740bb8a<>res://.godot/imported/spr_tileset_sunnysideworld_16px.png-0c1f0e21795de3b3f8670c91876a39ee.ctex::
+spr_tileset_sunnysideworld_forest_32px.png::CompressedTexture2D::4809480667535126630::1762573702::1762573702::1::::<><><>0<>0<>fd76dc3609a68a89c532fb511e4e7b99<>res://.godot/imported/spr_tileset_sunnysideworld_forest_32px.png-d9c9bbd38e3edb780dc1f07f2e79dd70.ctex::
+::res://scenes/::1762573563
+::res://scenes/characters/::1762573563
+goblin.tscn::PackedScene::2979940845630577493::1762573563::0::1::::<><><>0<>0<><>::
+player.tscn::PackedScene::6890588322094564306::1762573563::0::1::::<><><>0<>0<><>::
+slime.tscn::PackedScene::994488505937391848::1762573563::0::1::::<><><>0<>0<><>::
+::res://scenes/levels/::1762573563
+main_game.tscn::PackedScene::3483229059715422986::1762573563::0::1::::<><><>0<>0<><>::
+::res://scripts/::1762573563
+script.txt::TextFile::-1::1762573563::0::1::::<><><>0<>0<><>::
